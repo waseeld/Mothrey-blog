@@ -1,12 +1,8 @@
 ---
 title: About
-description: What does Minimo even means?!
+description: What is this all about?!
 menu: main
 weight: -210
 ---
 
-Mínimo is a Spanish word that roughly translate to Minimal.
-
-Minimo is a minimalist theme for Hugo.
-
-Minimo keeps the focus on your content and lets it shine!
+_All_? There is nothing about anything, atleast not yet!
