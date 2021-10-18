@@ -3,6 +3,7 @@ date: 2017-09-28T08:00:00+06:00
 title: test
 authors: ["flinner"]
 weight: -230
+draft: true
 ---
 
 Here is a paragraph. **Lorem ipsum _dolor_ sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
