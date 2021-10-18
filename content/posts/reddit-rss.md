@@ -2,7 +2,6 @@
 date: 2021-10-16T08:00:00+06:00
 title: Reddit RSS Feeds limit
 authors: ["flinner"]
-weight: -230
 ---
 # What are RSS feeds and why you need them
 You don't know? Seriously? How did you end up here? :)
