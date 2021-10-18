@@ -16,6 +16,11 @@ https://www.reddit.com/r/announcements.rss
 ```
 That is it!
 
+# My Feed reader is rejecting reddit urls!
+Use `old.reddit.com`
+```
+https://old.reddit.com/r/announcements.rss
+```
 # RSS feed is spammy!
 Ye what did you expect? ;)
 
@@ -48,3 +53,4 @@ Example:
 ```
 https://www.reddit.com/search.rss?q=cats&sort=new&restrict_sr=&t=all
 ```
+
