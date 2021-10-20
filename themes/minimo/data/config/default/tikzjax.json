@@ -1,0 +1,11 @@
+{
+	"library": {
+		"js": {
+			"main": "https://tikzjax.com/v1/tikzjax.js"
+		},
+		"css": {
+			"main": "https://tikzjax.com/v1/fonts.css"
+		}
+	},
+	"options": {}
+}

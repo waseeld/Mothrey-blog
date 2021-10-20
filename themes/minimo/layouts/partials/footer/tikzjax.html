@@ -1,0 +1,12 @@
+{{- $defaultTikzjax := .Site.Data.config.default.tikzjax -}}
+{{- $tikzjax := ( or .Site.Data.config.tikzjax $defaultTikzjax ) -}}
+
+{{- if eq .Params.tikzjax true -}}
+
+
+<link rel="stylesheet" type="text/css" href='{{- $tikzjax.library.css.main -}}'>
+<script type='text/javascript' async src='{{- $tikzjax.library.js.main -}}'></script>
+
+
+
+{{- end -}}
