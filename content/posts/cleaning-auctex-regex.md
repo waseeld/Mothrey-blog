@@ -1,5 +1,5 @@
 ---
-date: 2021-12-21T08:00:00+06:00
+date: 2021-12-21T08:00:00+00:00
 title: Cleaning LaTeX with AucTex
 authors: ["flinner"]
 weight: -230
