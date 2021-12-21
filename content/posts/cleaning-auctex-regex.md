@@ -3,7 +3,6 @@ date: 2021-12-21T08:00:00+00:00
 title: Cleaning LaTeX with AucTex
 authors: ["flinner"]
 weight: -230
-draft: true
 ---
 
 Yo emacs boyz how you doin?
